@@ -3,6 +3,8 @@ An electron app that replaces values in a text file with values specified in a C
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is started with the setup from https://medium.com/@johndyer24/building-a-production-electron-create-react-app-application-with-shared-code-using-electron-builder-c1f70f0e2649
+
 ## Available Scripts
 
 In the project directory, you can run:
